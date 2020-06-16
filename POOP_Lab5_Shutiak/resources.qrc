@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/circle.png</file>
+        <file>images/color-picker.png</file>
+        <file>images/copy.png</file>
+        <file>images/crop.png</file>
+        <file>images/cut.png</file>
+        <file>images/file.png</file>
+        <file>images/font.png</file>
+        <file>images/help.png</file>
+        <file>images/new.png</file>
+        <file>images/paint.png</file>
+        <file>images/paste.png</file>
+        <file>images/pencil.png</file>
+        <file>images/rectangle.png</file>
+        <file>images/redo.png</file>
+        <file>images/rubber.png</file>
+        <file>images/save.png</file>
+        <file>images/slash.png</file>
+        <file>images/spray.png</file>
+        <file>images/text.png</file>
+        <file>images/undo.png</file>
+        <file>images/icon.png</file>
+    </qresource>
+</RCC>

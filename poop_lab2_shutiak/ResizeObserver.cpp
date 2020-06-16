@@ -1,5 +1,4 @@
 #include "ResizeObserver.h"
-#include "ui_mainwindow.h"
 
 ResizeObserver::ResizeObserver(QWidget *parent)
     : QLabel(parent)
