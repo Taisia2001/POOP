@@ -18,7 +18,7 @@
 PaintWindow::PaintWindow(QWidget *parent):
     QMainWindow(parent),
     _canvas(nullptr),
-    helpW("../POOP_Lab5_Shutiak/doc", "index.htm")
+    helpW(":/doc", "index.htm")
 {
     setWindowIcon(QIcon(":/images/icon.png"));
     QWidget* container = new QWidget;

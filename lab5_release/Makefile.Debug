@@ -138,7 +138,34 @@ debug/qrc_resources.cpp: ../POOP_Lab5_Shutiak/resources.qrc \
 		../POOP_Lab5_Shutiak/images/redo.png \
 		../POOP_Lab5_Shutiak/images/cut.png \
 		../POOP_Lab5_Shutiak/images/crop.png \
-		../POOP_Lab5_Shutiak/images/new.png
+		../POOP_Lab5_Shutiak/images/new.png \
+		../POOP_Lab5_Shutiak/doc/text.htm \
+		../POOP_Lab5_Shutiak/doc/contour.htm \
+		../POOP_Lab5_Shutiak/doc/fill.htm \
+		../POOP_Lab5_Shutiak/doc/rubber.htm \
+		../POOP_Lab5_Shutiak/doc/redo.htm \
+		../POOP_Lab5_Shutiak/doc/line.htm \
+		../POOP_Lab5_Shutiak/doc/cut.htm \
+		../POOP_Lab5_Shutiak/doc/save_as.htm \
+		../POOP_Lab5_Shutiak/doc/clear.htm \
+		../POOP_Lab5_Shutiak/doc/circle.htm \
+		../POOP_Lab5_Shutiak/doc/help.htm \
+		../POOP_Lab5_Shutiak/doc/open.htm \
+		../POOP_Lab5_Shutiak/doc/color.htm \
+		../POOP_Lab5_Shutiak/doc/width.htm \
+		../POOP_Lab5_Shutiak/doc/undo.htm \
+		../POOP_Lab5_Shutiak/doc/font.htm \
+		../POOP_Lab5_Shutiak/doc/rect.htm \
+		../POOP_Lab5_Shutiak/doc/paste.htm \
+		../POOP_Lab5_Shutiak/doc/fillColor.htm \
+		../POOP_Lab5_Shutiak/doc/copy.htm \
+		../POOP_Lab5_Shutiak/doc/index.htm \
+		../POOP_Lab5_Shutiak/doc/colorpicker.htm \
+		../POOP_Lab5_Shutiak/doc/select.htm \
+		../POOP_Lab5_Shutiak/doc/spray.htm \
+		../POOP_Lab5_Shutiak/doc/exit.htm \
+		../POOP_Lab5_Shutiak/doc/filled.htm \
+		../POOP_Lab5_Shutiak/doc/pencil.htm
 	C:\Qt\5.14.2\mingw73_64\bin\rcc.exe -name resources ..\POOP_Lab5_Shutiak\resources.qrc -o debug\qrc_resources.cpp
 
 compiler_moc_predefs_make_all: debug/moc_predefs.h

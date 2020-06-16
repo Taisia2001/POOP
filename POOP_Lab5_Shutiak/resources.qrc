@@ -21,5 +21,32 @@
         <file>images/text.png</file>
         <file>images/undo.png</file>
         <file>images/icon.png</file>
+        <file>doc/circle.htm</file>
+        <file>doc/clear.htm</file>
+        <file>doc/color.htm</file>
+        <file>doc/colorpicker.htm</file>
+        <file>doc/contour.htm</file>
+        <file>doc/copy.htm</file>
+        <file>doc/cut.htm</file>
+        <file>doc/exit.htm</file>
+        <file>doc/fill.htm</file>
+        <file>doc/fillColor.htm</file>
+        <file>doc/filled.htm</file>
+        <file>doc/font.htm</file>
+        <file>doc/help.htm</file>
+        <file>doc/index.htm</file>
+        <file>doc/line.htm</file>
+        <file>doc/open.htm</file>
+        <file>doc/paste.htm</file>
+        <file>doc/pencil.htm</file>
+        <file>doc/rect.htm</file>
+        <file>doc/redo.htm</file>
+        <file>doc/rubber.htm</file>
+        <file>doc/save_as.htm</file>
+        <file>doc/select.htm</file>
+        <file>doc/spray.htm</file>
+        <file>doc/text.htm</file>
+        <file>doc/undo.htm</file>
+        <file>doc/width.htm</file>
     </qresource>
 </RCC>
